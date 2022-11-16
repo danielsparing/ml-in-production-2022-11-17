@@ -49,7 +49,7 @@
 
 # COMMAND ----------
 
-# MAGIC %run "../Includes/Classroom-Setup"
+# MAGIC %run ./Classroom-Setup"
 
 # COMMAND ----------
 
